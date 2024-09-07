@@ -742,7 +742,8 @@ margin-left: 100px;
     background-color: rgb(174, 174, 174);
     text-align: center;
     padding: 20px 25px;
-    margin-left: 77px;
+    margin-left: 72px;
+    margin-right: -14px;
     text-transform: capitalize;
     height: 360px;
 }
